@@ -1,0 +1,126 @@
+
+.mt-50{
+
+    margin-top: 50px;
+  }
+  
+  .mt-20{
+
+    margin-top: 20px;
+  }
+  .numve
+  {
+    font-size: 13px;
+    color:#808080
+  }
+
+  .display-none
+  {
+    display: none !important;
+  }
+
+
+  .mb-50{
+  
+    margin-bottom: 50px;
+  }
+  .underline
+  {
+    text-decoration: underline !important;
+  }
+  
+  .card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .1875rem;
+  }
+  
+  .product-title
+  {
+    color: #008cba;
+    font-weight: 800;
+  
+  }
+  .mb-10
+  {
+    margin-bottom: 10px;
+  }
+
+  .mb-20
+  {
+    margin-bottom: 20px;
+  }
+  
+  .product-category
+  {
+    font-size: 14px;
+  }
+  
+  .img-detail-full
+  {
+    width: 70% !important;
+  }
+
+  .card-img-actions {
+    position: relative;
+  }
+  .card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    text-align: center;
+    
+  }
+  
+  
+  
+  .card-img{
+  
+    width: 350px;
+  }
+  
+  .star{
+        color: #ffdf00;
+  }
+  
+  .nav-color
+  {
+    color: #fff !important;
+  }
+  .nav-color:hover
+  {
+    color: #fff6d8 !important;
+  }
+  
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    background-color: #e99002 !important
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #fff
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+  color: #fff
+}
+
+.dropdown-item:hover {
+  
+  background-color: #e99009 !important;
+
+}
+
+.orderTm {
+  
+  background-color: #e99009 !important;
+  color: #fff !important
+}
+
